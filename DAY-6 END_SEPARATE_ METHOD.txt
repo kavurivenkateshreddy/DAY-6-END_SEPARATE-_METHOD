@@ -4,6 +4,12 @@ Date: 26th April 2022 Tuesday
 Name: kavuri venkatesh reddy
 File Desc:Sep_end methods
 """
+'''
+True ---> single (or) multiple spaces inside the string  EX: (' '.isspace)
+False ---> nospace (or) something inside the string  EX: ('@'.isspace)
+the isspace method returns True if all the characters in a string are whitespace other wise False.
+'''
+
 # print(' '.isspace()) #True
 # print(''.isspace()) #False
 # print('A'.isspace()) #False
